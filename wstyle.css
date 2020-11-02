@@ -1,10 +1,16 @@
+header {
+min-height: 100px;
+}
+
 body {
   background-color: white;
+  min-height: 400px;
+  margin-top: 3%;
 }
 .jumbotron {
   background-color: white;
-  width: auto;
-  height: auto;
+ margin-left: 10%;
+	margin-right: 10%;
 }
 .alt{
   position: relative;
@@ -15,8 +21,8 @@ body {
 	border-radius: 0px 0px 30px 30px;
 	padding: 15px;
 	background-color: #ffffff;
-  margin-left: auto;
-	margin-right: auto;
+  margin-left: 10%;
+	margin-right: 10%;
   background-color: white;
 }
 .col-sm-4 {
