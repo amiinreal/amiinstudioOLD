@@ -1,0 +1,49 @@
+body {
+  background-color: white;
+}
+.jumbotron {
+  background-color: white;
+  width: auto;
+  height: auto;
+}
+.alt{
+  position: relative;
+	width: 1700px;
+	top: 37px;
+	left: 0px;
+	border: 2px  rgb(255,153,0);
+	border-radius: 0px 0px 30px 30px;
+	padding: 15px;
+	background-color: #ffffff;
+  margin-left: auto;
+	margin-right: auto;
+  background-color: white;
+}
+.col-sm-4 {
+  	border: 2px solid rgb(255,153,0);
+
+}
+.row {
+  border: 2px solid rgb(255,0,0);
+
+}
+h1{
+color: orange;
+}
+
+h2{
+
+}
+
+h3{
+
+  margin-left: 9px;
+}
+
+p{
+
+  margin-left: 9px;
+}
+svg{
+
+}
