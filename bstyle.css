@@ -3,15 +3,15 @@ min-height: 100px;
 }
 
 body {
-background-color: black;
-  min-height: 400px;
-  margin-top: 3%;
+	background-color: black;
+	min-height: 400px;
+	margin-top: 3%;
 }
 .jumbotron {
-  background-color: black;
-min-height: 40px;
-  margin-left: 10%;
-  margin-right: 10%;
+	background-color: black;
+	min-height: 40px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 .alt{
   position: relative;
@@ -22,9 +22,9 @@ min-height: 40px;
 	border-radius: 0px 0px 30px 30px;
 	padding: 15px;
 	background-color: #ffffff;
- margin-left: 10%;
+	margin-left: 10%;
 	margin-right: 10%;
-  background-color: black;
+	background-color: black;
 }
 .col-sm-4 {
   	border: 2px solid rgb(255,153,0);
