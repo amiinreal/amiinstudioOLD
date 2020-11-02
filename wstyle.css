@@ -3,13 +3,13 @@ min-height: 100px;
 }
 
 body {
-  background-color: white;
-  min-height: 400px;
-  margin-top: 3%;
+	background-color: white;
+	min-height: 400px;
+	margin-top: 3%;
 }
 .jumbotron {
-  background-color: white;
- margin-left: 10%;
+	background-color: white;
+	margin-left: 10%;
 	margin-right: 10%;
 }
 .alt{
@@ -21,9 +21,9 @@ body {
 	border-radius: 0px 0px 30px 30px;
 	padding: 15px;
 	background-color: #ffffff;
-  margin-left: 10%;
+	margin-left: 10%;
 	margin-right: 10%;
-  background-color: white;
+	background-color: white;
 }
 .col-sm-4 {
   	border: 2px solid rgb(255,153,0);
